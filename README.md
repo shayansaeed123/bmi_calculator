@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
   <img src="https://github.com/shayansaeed123/bmi_calculator/assets/115692639/686a5dd6-b691-4240-9bcb-1fe3c166ea1e" width="300" title="hover text">
   
 
-</p>![Screenshot_20240119-232125]()
+</p>
 
 
 A few resources to get you started if this is your first Flutter project:
